@@ -2,6 +2,8 @@ hey, i suck at formatting things, so here goes
 
 How to use this thing:
 
+Firstly please use this link to download : https://github.com/TheViralClovers/NFT_notifier/releases/download/v0.1/NFT_notify.zip
+
 1) edit owner.txt and replace k3bri.wam with your WAX address
 2) edit asset_count.txt and replace whatever default number present in it with the number of alienworld assets/NFTs(including avatars,weapons etc)  you currently have
 (excluding rplanet.io) ,if you are unsure or too lazy to check, set the asset_count to 3000 or some absurdly high number, my script will auto adjust
@@ -14,4 +16,9 @@ If you have any update ideas, shoot me a text on discord @TheViralClovers, ill b
 Star my scripts on github, it gives me motivation to make more awesome stuff for you guys, 
 URL : https://github.com/TheViralClovers
 
+sammys server : https://discord.gg/esvdsMfDSA
+zueljin's server : https://discord.gg/zueljin
+
 For those skeptics who actually think ill steal your WAX and NFTs(lmao) , i have hosted the source code on github, compile it yourself
+
+If you dont know how many NFTs u have, and/or too lazy to check, se the NFT count to 10000000, my script will then fetch the NFT count for you
